@@ -46,6 +46,10 @@ public class LeagueImportServiceImpl implements LeagueImportService {
     private FixtureDto lineToFixtureDto(String line) {
         String[] sections = line.split(",");
 
+        if (sections.length != 2) {
+            // @todo handle with LeagueImportBadLineFormattingException
+        }
+
         String home = sections[0];
         String away = sections[1];
 

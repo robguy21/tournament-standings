@@ -78,8 +78,14 @@ public class ImportAllResultsCommand implements Callable<Integer> {
     }
 
     private Integer validateOptions() {
+        // at least one option exists
         if (file == null && results.length < 1) {
             return shoutAndLeave("Please either use the --file option or list the results as arguments");
+        }
+
+        // if file is passed in, make sure it is a file
+        if (file != null && ! file.exists()) {
+            return shoutAndLeave("I couldn't find the file you passed in, can you double check the path?");
         }
 
         return null;

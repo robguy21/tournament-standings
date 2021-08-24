@@ -46,6 +46,12 @@ _and so on_
 # Missing Pieces
 No repositories, may be nifty to store the tournament in memory so that the cli can be somewhat stateful
 
+## Better exception handling
+
+Need to implement exception handling for following cases
+- File to import does not exist
+- A line of the import is badly formatted and cannot be handled
+
 ## Expand on "League" concept
 Currently, there is only a concept of a "League", my initial idea was to have Tournaments with different types 
 (League / Single Elimination / etc) and then you could extend these base cases to a Tournament structure that makes use of different
