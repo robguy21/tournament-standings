@@ -1,0 +1,380 @@
+Fulham 0, Arsenal 3
+Crystal Palace 1, Southampton 0
+Liverpool 4, Leeds 3
+West Ham 0, Newcastle 2
+West Brom 0, Leicester 3
+Spurs 0, Everton 1
+Sheffield Utd 0, Wolves 2
+Brighton 1, Chelsea 3
+Everton 5, West Brom 2
+Leeds 4, Fulham 3
+Man Utd 1, Crystal Palace 3
+Arsenal 2, West Ham 1
+Southampton 2, Spurs 5
+Newcastle 0, Brighton 3
+Chelsea 0, Liverpool 2
+Leicester 4, Burnley 2
+Aston Villa 1, Sheffield Utd 0
+Wolves 1, Man City 3
+Brighton 2, Man Utd 3
+Crystal Palace 1, Everton 2
+West Brom 3, Chelsea 3
+Burnley 0, Southampton 1
+Sheffield Utd 0, Leeds 1
+Spurs 1, Newcastle 1
+Man City 2, Leicester 5
+West Ham 4, Wolves 0
+Fulham 0, Aston Villa 3
+Liverpool 3, Arsenal 1
+Chelsea 4, Crystal Palace 0
+Everton 4, Brighton 2
+Leeds 1, Man City 1
+Newcastle 3, Burnley 1
+Leicester 0, West Ham 3
+Southampton 2, West Brom 0
+Arsenal 2, Sheffield Utd 1
+Wolves 1, Fulham 0
+Man Utd 1, Spurs 6
+Aston Villa 7, Liverpool 2
+Everton 2, Liverpool 2
+Chelsea 3, Southampton 3
+Man City 1, Arsenal 0
+Newcastle 1, Man Utd 4
+Sheffield Utd 1, Fulham 1
+Crystal Palace 1, Brighton 1
+Spurs 3, West Ham 3
+Leicester 0, Aston Villa 1
+West Brom 0, Burnley 0
+Leeds 0, Wolves 1
+Aston Villa 0, Leeds 3
+West Ham 1, Man City 1
+Fulham 1, Crystal Palace 2
+Man Utd 0, Chelsea 0
+Liverpool 2, Sheffield Utd 1
+Southampton 2, Everton 0
+Wolves 1, Newcastle 1
+Arsenal 0, Leicester 1
+Brighton 1, West Brom 1
+Burnley 0, Spurs 1
+Wolves 2, Crystal Palace 0
+Sheffield Utd 0, Man City 1
+Burnley 0, Chelsea 3
+Liverpool 2, West Ham 1
+Aston Villa 3, Southampton 4
+Newcastle 2, Everton 1
+Man Utd 0, Arsenal 1
+Spurs 2, Brighton 1
+Fulham 2, West Brom 0
+Leeds 1, Leicester 4
+Brighton 0, Burnley 0
+Southampton 2, Newcastle 0
+Everton 1, Man Utd 3
+Crystal Palace 4, Leeds 1
+Chelsea 4, Sheffield Utd 1
+West Ham 1, Fulham 0
+West Brom 0, Spurs 1
+Leicester 1, Wolves 0
+Man City 1, Liverpool 1
+Arsenal 0, Aston Villa 3
+Newcastle 0, Chelsea 2
+Aston Villa 1, Brighton 2
+Spurs 2, Man City 0
+Man Utd 1, West Brom 0
+Fulham 2, Everton 3
+Sheffield Utd 0, West Ham 1
+Leeds 0, Arsenal 0
+Liverpool 3, Leicester 0
+Burnley 1, Crystal Palace 0
+Wolves 1, Southampton 1
+Crystal Palace 0, Newcastle 2
+Brighton 1, Liverpool 1
+Man City 5, Burnley 0
+Everton 0, Leeds 1
+West Brom 1, Sheffield Utd 0
+Southampton 2, Man Utd 3
+Chelsea 0, Spurs 0
+Arsenal 1, Wolves 2
+Leicester 1, Fulham 2
+West Ham 2, Aston Villa 1
+Burnley 1, Everton 1
+Man City 2, Fulham 0
+West Ham 1, Man Utd 3
+Chelsea 3, Leeds 1
+West Brom 1, Crystal Palace 5
+Sheffield Utd 1, Leicester 2
+Spurs 2, Arsenal 0
+Liverpool 4, Wolves 0
+Brighton 1, Southampton 2
+Leeds 1, West Ham 2
+Wolves 0, Aston Villa 1
+Newcastle 2, West Brom 1
+Man Utd 0, Man City 0
+Everton 1, Chelsea 0
+Southampton 3, Sheffield Utd 0
+Crystal Palace 1, Spurs 1
+Fulham 1, Liverpool 1
+Arsenal 0, Burnley 1
+Leicester 3, Brighton 0
+Wolves 2, Chelsea 1
+Man City 1, West Brom 1
+Arsenal 1, Southampton 1
+Leeds 5, Newcastle 2
+Leicester 0, Everton 2
+Fulham 0, Brighton 0
+West Ham 1, Crystal Palace 1
+Liverpool 2, Spurs 1
+Aston Villa 0, Burnley 0
+Sheffield Utd 2, Man Utd 3
+Crystal Palace 0, Liverpool 7
+Southampton 0, Man City 1
+Everton 2, Arsenal 1
+Newcastle 1, Fulham 1
+Brighton 1, Sheffield Utd 1
+Spurs 0, Leicester 2
+Man Utd 6, Leeds 2
+West Brom 0, Aston Villa 3
+Burnley 2, Wolves 1
+Chelsea 3, West Ham 0
+Leicester 2, Man Utd 2
+Aston Villa 3, Crystal Palace 0
+Fulham 0, Southampton 0
+Arsenal 3, Chelsea 1
+Man City 2, Newcastle 0
+Sheffield Utd 0, Everton 1
+Leeds 1, Burnley 0
+West Ham 2, Brighton 2
+Liverpool 1, West Brom 1
+Wolves 1, Spurs 1
+Crystal Palace 1, Leicester 1
+Chelsea 1, Aston Villa 1
+Brighton 0, Arsenal 1
+Burnley 1, Sheffield Utd 0
+Southampton 0, West Ham 0
+West Brom 0, Leeds 5
+Man Utd 1, Wolves 0
+Newcastle 0, Liverpool 0
+Everton 0, West Ham 1
+Man Utd 2, Aston Villa 1
+Spurs 3, Leeds 0
+Crystal Palace 2, Sheffield Utd 0
+Brighton 3, Wolves 3
+West Brom 0, Arsenal 4
+Newcastle 1, Leicester 2
+Chelsea 1, Man City 3
+Southampton 1, Liverpool 0
+Sheffield Utd 1, Newcastle 0
+Burnley 0, Man Utd 1
+Wolves 1, Everton 2
+Man City 1, Brighton 0
+Spurs 1, Fulham 1
+Arsenal 0, Crystal Palace 0
+Wolves 2, West Brom 3
+Leeds 0, Brighton 1
+West Ham 1, Burnley 0
+Fulham 0, Chelsea 1
+Leicester 2, Southampton 0
+Sheffield Utd 1, Spurs 3
+Liverpool 0, Man Utd 0
+Man City 4, Crystal Palace 0
+Arsenal 3, Newcastle 0
+West Ham 2, West Brom 1
+Leicester 2, Chelsea 0
+Man City 2, Aston Villa 0
+Fulham 1, Man Utd 2
+Liverpool 0, Burnley 1
+Aston Villa 2, Newcastle 0
+Newcastle 1, Leeds 2
+Crystal Palace 2, West Ham 3
+West Brom 0, Man City 5
+Southampton 1, Arsenal 3
+Burnley 3, Aston Villa 2
+Chelsea 0, Wolves 0
+Brighton 0, Fulham 0
+Everton 1, Leicester 1
+Man Utd 1, Sheffield Utd 2
+Spurs 1, Liverpool 3
+Everton 0, Newcastle 2
+Crystal Palace 1, Wolves 0
+Man City 1, Sheffield Utd 0
+West Brom 2, Fulham 2
+Arsenal 0, Man Utd 0
+Southampton 0, Aston Villa 1
+Chelsea 2, Burnley 0
+Leicester 1, Leeds 3
+West Ham 1, Liverpool 3
+Brighton 1, Spurs 0
+Sheffield Utd 2, West Brom 1
+Wolves 2, Arsenal 1
+Man Utd 9, Southampton 0
+Newcastle 1, Crystal Palace 2
+Burnley 0, Man City 2
+Fulham 0, Leicester 2
+Leeds 1, Everton 2
+Aston Villa 1, West Ham 3
+Liverpool 0, Brighton 1
+Spurs 0, Chelsea 1
+Aston Villa 1, Arsenal 0
+Burnley 1, Brighton 1
+Newcastle 3, Southampton 2
+Fulham 0, West Ham 0
+Man Utd 3, Everton 3
+Spurs 2, West Brom 0
+Wolves 0, Leicester 0
+Liverpool 1, Man City 4
+Sheffield Utd 1, Chelsea 2
+Leeds 2, Crystal Palace 0
+Leicester 3, Liverpool 1
+Crystal Palace 0, Burnley 3
+Man City 3, Spurs 0
+Brighton 0, Aston Villa 0
+Southampton 1, Wolves 2
+West Brom 1, Man Utd 1
+Arsenal 4, Leeds 2
+Everton 0, Fulham 2
+West Ham 3, Sheffield Utd 0
+Chelsea 2, Newcastle 0
+Burnley 1, Fulham 1
+Everton 1, Man City 3
+Wolves 1, Leeds 0
+Southampton 1, Chelsea 1
+Burnley 0, West Brom 0
+Liverpool 0, Everton 2
+Fulham 1, Sheffield Utd 0
+West Ham 2, Spurs 1
+Aston Villa 1, Leicester 2
+Arsenal 0, Man City 1
+Man Utd 3, Newcastle 1
+Brighton 1, Crystal Palace 2
+Leeds 3, Southampton 0
+Man City 2, West Ham 1
+West Brom 1, Brighton 0
+Leeds 0, Aston Villa 1
+Newcastle 1, Wolves 1
+Crystal Palace 0, Fulham 0
+Leicester 1, Arsenal 3
+Spurs 4, Burnley 0
+Chelsea 0, Man Utd 0
+Sheffield Utd 0, Liverpool 2
+Everton 1, Southampton 0
+Man City 4, Wolves 1
+Burnley 1, Leicester 1
+Sheffield Utd 1, Aston Villa 0
+Crystal Palace 0, Man Utd 0
+West Brom 0, Everton 1
+Fulham 0, Spurs 1
+Liverpool 0, Chelsea 1
+Burnley 1, Arsenal 1
+Sheffield Utd 0, Southampton 2
+Aston Villa 0, Wolves 0
+Brighton 1, Leicester 2
+West Brom 0, Newcastle 0
+Liverpool 0, Fulham 1
+Man City 0, Man Utd 2
+Spurs 4, Crystal Palace 1
+Chelsea 2, Everton 0
+West Ham 2, Leeds 0
+Man City 5, Southampton 2
+Newcastle 1, Aston Villa 1
+Leeds 0, Chelsea 0
+Crystal Palace 1, West Brom 0
+Everton 1, Burnley 2
+Fulham 0, Man City 3
+Southampton 1, Brighton 2
+Leicester 5, Sheffield Utd 0
+Arsenal 2, Spurs 1
+Man Utd 1, West Ham 0
+Wolves 0, Liverpool 1
+Fulham 1, Leeds 2
+Brighton 3, Newcastle 0
+West Ham 3, Arsenal 3
+Aston Villa 0, Spurs 2
+Chelsea 2, West Brom 5
+Leeds 2, Sheffield Utd 1
+Leicester 0, Man City 2
+Arsenal 0, Liverpool 3
+Southampton 3, Burnley 2
+Newcastle 2, Spurs 2
+Aston Villa 3, Fulham 1
+Man Utd 2, Brighton 1
+Everton 1, Crystal Palace 1
+Wolves 2, West Ham 3
+Fulham 0, Wolves 1
+Man City 1, Leeds 2
+Liverpool 2, Aston Villa 1
+Crystal Palace 1, Chelsea 4
+Burnley 1, Newcastle 2
+West Ham 3, Leicester 2
+Spurs 1, Man Utd 3
+Sheffield Utd 0, Arsenal 3
+West Brom 3, Southampton 0
+Brighton 0, Everton 0
+Everton 2, Spurs 2
+Newcastle 3, West Ham 2
+Wolves 1, Sheffield Utd 0
+Arsenal 1, Fulham 1
+Man Utd 3, Burnley 1
+Leeds 1, Liverpool 1
+Chelsea 0, Brighton 0
+Spurs 2, Southampton 1
+Aston Villa 1, Man City 2
+Leicester 3, West Brom 0
+Arsenal 0, Everton 1
+Liverpool 1, Newcastle 1
+West Ham 0, Chelsea 1
+Sheffield Utd 1, Brighton 0
+Wolves 0, Burnley 4
+Leeds 0, Man Utd 0
+Aston Villa 2, West Brom 2
+Leicester 2, Crystal Palace 1
+Southampton 1, Leicester 1
+Crystal Palace 0, Man City 2
+Brighton 2, Leeds 0
+Chelsea 2, Fulham 0
+Everton 1, Aston Villa 2
+Newcastle 0, Arsenal 2
+Spurs 4, Sheffield Utd 0
+West Brom 1, Wolves 1
+Burnley 1, West Ham 2
+Leicester 2, Newcastle 4
+Leeds 3, Spurs 1
+Sheffield Utd 0, Crystal Palace 2
+Man City 1, Chelsea 2
+Liverpool 2, Southampton 0
+Wolves 2, Brighton 1
+Aston Villa 1, Man Utd 3
+West Ham 0, Everton 1
+Arsenal 3, West Brom 1
+Fulham 0, Burnley 2
+Man Utd 1, Leicester 2
+Southampton 3, Crystal Palace 1
+Chelsea 0, Arsenal 1
+Aston Villa 0, Everton 0
+Man Utd 2, Liverpool 4
+Newcastle 3, Man City 4
+Burnley 0, Leeds 4
+Southampton 3, Fulham 1
+Brighton 1, West Ham 1
+Crystal Palace 3, Aston Villa 2
+Spurs 2, Wolves 0
+West Brom 1, Liverpool 2
+Everton 0, Sheffield Utd 1
+Man Utd 1, Fulham 1
+Southampton 0, Leeds 2
+Brighton 3, Man City 2
+Chelsea 2, Leicester 1
+Everton 1, Wolves 0
+Newcastle 1, Sheffield Utd 0
+Spurs 1, Aston Villa 2
+Crystal Palace 1, Arsenal 3
+Burnley 0, Liverpool 3
+West Brom 1, West Ham 3
+Arsenal 2, Brighton 0
+Aston Villa 2, Chelsea 1
+Fulham 0, Newcastle 2
+Leeds 3, West Brom 1
+Leicester 2, Spurs 4
+Liverpool 2, Crystal Palace 0
+Man City 5, Everton 0
+Sheffield Utd 1, Burnley 0
+West Ham 3, Southampton 0
+Wolves 1, Man Utd 2

@@ -1,0 +1,63 @@
+plugins {
+    id 'org.springframework.boot' version '2.5.4'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id 'java'
+    id 'application'
+    id 'distribution'
+}
+
+group = 'com.robguy21'
+version = '0.0.1'
+sourceCompatibility = '16'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // spring boot
+    implementation 'org.springframework.boot:spring-boot-starter:2.5.3'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa:2.5.3'
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor:2.5.3'
+
+    // picocli
+    implementation 'info.picocli:picocli:4.6.1'
+    annotationProcessor 'info.picocli:picocli-codegen:4.6.1'
+
+    // lombok
+    compileOnly 'org.projectlombok:lombok:1.18.20'
+    annotationProcessor 'org.projectlombok:lombok:1.18.20'
+
+    // jackson
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.12.4'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.4'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.12.4'
+
+    // dev deps
+    developmentOnly 'org.springframework.boot:spring-boot-devtools:2.5.3'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test:2.5.3'
+}
+
+compileJava {
+    options.compilerArgs += ["-Aproject=${project.group}/${project.name}"]
+}
+
+application {
+    mainClass = "${project.group}.tournamentstandings.TournamentStandingsApplication"
+}
+jar {
+    manifest {
+        attributes(
+                'Main-Class': "${project.group}.tournamentstandings.TournamentStandingsApplication"
+        )
+    }
+}
+test {
+    useJUnitPlatform()
+}
