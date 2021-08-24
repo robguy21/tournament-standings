@@ -51,6 +51,10 @@ No repositories, may be nifty to store the tournament in memory so that the cli 
 Need to implement exception handling for following cases
 - File to import does not exist
 - A line of the import is badly formatted and cannot be handled
+- Multiple options are passed in (file and input)
+- 
+
+Along with this I don't have any Negative tests, those should be implemented alongside the above cases
 
 ## Expand on "League" concept
 Currently, there is only a concept of a "League", my initial idea was to have Tournaments with different types 
